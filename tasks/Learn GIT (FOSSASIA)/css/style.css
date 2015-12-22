@@ -1,0 +1,26 @@
+html{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.myBody{
+	background: #b9babe url("low_contrast_linen.png") repeat;
+    height: 100%;
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+}
+.container {
+	background-color: green;
+    width: 100%;
+    max-width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    background: #fff url("redox.png");
+    -webkit-box-shadow: 20px 20px 20px rgba(3, 3, 3, 0.3);
+}
+center{
+	margin: 50px;
+}
